@@ -1,0 +1,11 @@
+export const SIGN_IN_USER = "SIGN_IN_USER";
+export const SIGN_IN_USER_SUCCESS = "SIGN_IN_USER_SUCCESS";
+export const SIGN_IN_USER_ERROR = "SIGN_IN_USER_ERROR";
+
+export const SIGN_OUT_USER = "SIGN_OUT_USER";
+export const SIGN_OUT_USER_SUCCESS = "SIGN_OUT_USER_SUCCESS";
+export const SIGN_OUT_USER_ERROR = "SIGN_OUT_USER_ERROR";
+
+export const GET_NEWS = "GET_NEWS";
+export const GET_NEWS_SUCCESS = "GET_NEWS_SUCCESS";
+export const GET_NEWS_ERROR = "GET_NEWS_ERROR";
